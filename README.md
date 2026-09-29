@@ -1,7 +1,7 @@
 # Flood-It
 
 Projet académique réalisé en **L2 Informatique** dans le cadre du module
-**Programmation Impérative 3 : introduction à l'algorithmique**.
+**Programmation Impérative 3 : introduction à l'algorithmique**. (Dec. 2025)
 
 **Note obtenue : 20/20**
 
